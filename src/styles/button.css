@@ -24,6 +24,7 @@
   height: 52px;
   font-size: var(--font-size-4);
   position: sticky;
+  top: 30px;
 }
 
 .outline-light:hover {
